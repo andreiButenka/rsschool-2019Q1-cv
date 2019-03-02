@@ -1,11 +1,13 @@
 ﻿Andrei Butenka
 ============
 
--------------------     ----------------------------
-Minsk                         andreiButenka@gmail.com
-Belarus                       +375297142250
-                              skype: Andrei Butenka
--------------------     ----------------------------
+-------------------     
+Minsk                         
+Belarus                       
++375297142250
+andreiButenka@gmail.com                            
+skype: Andrei Butenka
+-------------------     
 
 Summary
 ---------
