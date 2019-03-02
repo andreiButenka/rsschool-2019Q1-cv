@@ -1,4 +1,4 @@
-Andrei Butenka
+п»їAndrei Butenka
 ============
 
 -------------------     ----------------------------
@@ -30,7 +30,7 @@ Technical Experience
 
 My android app 
 :   Educational application for children based on Unity Engine 
-    [Умные ляльки](https://play.google.com/store/apps/details?id=com.wish4soft.SmartKidsLite)
+    [smartKids](https://play.google.com/store/apps/details?id=com.wish4soft.SmartKidsLite)
 
 Education
 ---------
