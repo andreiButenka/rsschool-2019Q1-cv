@@ -1,0 +1,142 @@
+body {
+  padding: 30px 0;
+  font-family: "Roboto", Arial, sans-serif;
+  background-color: rgba(0,0,0,0.02);
+}
+
+h1 {
+  margin: 20px 0;
+  font-family: Raleway;
+  font-size: 31px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+a:focus {
+  outline: none;
+}
+
+a:hover {
+  color: #589BFF;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 30px;
+  font-family: "Raleway", Arial, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+li p {
+  margin-top: 10px;
+  margin-left: 20px;
+  line-height: 27px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: none;
+}
+
+li p strong {
+  font-weight: 700;
+}
+
+li p a {
+  font-weight: 700;
+  color: #4285F4;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.3s;
+}
+
+li p a:focus {outline: none;}
+
+li p a:hover {
+  color: #589BFF;
+}
+
+ul li ul {
+  margin: 20px;
+}
+
+ul li ul li {
+  margin-bottom: 10px;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: none;
+}
+
+.container {
+	max-width: 1024px;
+	margin: 0 auto;
+  text-align: center;
+}
+
+.photo {
+  width: 220px;
+  height: 220px;
+  margin: 0 auto;
+  background: url('hackerman.png') no-repeat 50%;
+  border-radius: 50%;
+}
+
+.contacts {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.contact {
+  position: relative;
+  margin-left: 22px;
+  margin-bottom: 5px;
+}
+
+.contacts .contact:first-child {
+  margin-left: 0;
+}
+
+.contacts .contact:first-child::after {
+  content: " \B7 ";
+  position: absolute;
+  top: -14px;
+  left: 174px;
+  font-size: 40px;
+  color: #000;
+} 
+
+.contacts .contact:nth-child(2)::after {
+  content: " \B7 ";
+  position: absolute;
+  top: -14px;
+  left: 109px;
+  font-size: 40px;
+  color: #000;
+} 
+
+.country {
+  font-size: 14px;
+  margin-bottom: 50px;
+}
+
+.container-main {
+  text-align: left;
+}
+
